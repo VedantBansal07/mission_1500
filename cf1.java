@@ -20,8 +20,10 @@ public class cf1{
                 else flag=false;
             }
             System.out.println(arr[2]-arr[0]);
+            
 
         }
+        sc.close();
     }
 }
 //
